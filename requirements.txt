@@ -1,0 +1,8 @@
+playwright
+pytest
+pytest-xdist
+python-dotenv
+ruff
+black
+mypy
+pytest-playwright
